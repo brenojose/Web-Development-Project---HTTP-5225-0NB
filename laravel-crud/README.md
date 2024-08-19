@@ -39,4 +39,4 @@ You can use the SQL file, but using migrations is also available since it's Lara
 
    The database SQL file was placed inside the project folder.
 
-   cd laravel-crud > php artisan serve
+To Run. **cd laravel-crud > php artisan serve**
