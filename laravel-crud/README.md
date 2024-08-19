@@ -20,7 +20,7 @@ Dashboard and Public/Admin views - 20%
 Partially Present: The project has a todo list (list.blade.php) and forms for adding and editing todos, which is a form of administrative view. However, there is no separate dashboard that consolidates this information and provides an overview. Additionally, there is no clear distinction between public and administrative views. You may need to add a dashboard for administrators and possibly public views for other users.
 
 I apologize for the incomplete work; my email was recently hacked, I had to format my phone and computer, and I faced issues with MAMP and PHP, as well as with Laravel installation, and the project took more time than I expected. I also lost access to the Humber authenticator, so at this moment I am sending this assignment from the college courtyard alone at night (it was either this or I wouldn't be able to submit it). But no excuses, life is like that—better done than perfect! Thank you for the semester and the teachings!
-***___***
+___
 
 ## Prerequisites
 
