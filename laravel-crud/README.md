@@ -5,7 +5,8 @@
 ## Explain the features and database schema:
 - Authenticator with logout function, CRUD for each table, Register and forgot login function. Relationship one-to-many regarding each users and they can have multiple to-do entries.
 
-  ```
+```
+  
   At least 2 CRUD modules - 40% - Present -> Although the profile is not integrated with the list of todos through the views, the profile controller exists, as well as its migration, model, and CRUD.
 
 Both CRUD modules should be related using one-to-one, one-to-many, many-to-many etc. - 20% - Present => There is a one-to-many relationship with the user and the todo list, where a user can add multiple todo values and perform CRUD operations on them. Although it would have been better represented if the profile had been integrated.
