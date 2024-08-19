@@ -4,6 +4,7 @@
 - My project is a To-Do List with Users and Profiles, you can add, delete and view each profile and To-Do item. #
 ## Explain the features and database schema:
 - Authenticator with logout function, CRUD for each table, Register and forgot login function. Relationship one-to-many regarding each users and they can have multiple to-do entries.
+- I used Laravel, Laravel UI, Blade Templating Engine, Vite, Authentication, Seeders, MVC and Bootstrap components.
 
 ***___***
   
