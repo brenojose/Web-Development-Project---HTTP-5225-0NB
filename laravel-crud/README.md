@@ -38,3 +38,5 @@ You can use the SQL file, but using migrations is also available since it's Lara
 2. **Included File in the Project**
 
    The database SQL file was placed inside the project folder.
+
+   cd laravel-crud > php artisan serve
